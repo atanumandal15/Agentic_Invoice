@@ -6,3 +6,4 @@ __pycache__/
 .DS_Store
 data/
 *.db
+doc_agent_capstone_colab.ipynb
