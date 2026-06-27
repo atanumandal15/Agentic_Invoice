@@ -12,7 +12,7 @@ Build a LangGraph multi-agent system that automatically processes invoices, rece
 |----------|-------------|
 | PDF, PNG, JPG, TIFF input formats | Real-time email/ERP ingestion |
 | Invoice, Receipt, Form document types | Handwriting recognition fine-tuning |
-| VLM-based extraction (Claude / InternVL2 / LLaVA) | Production auth / multi-user RBAC |
+| VLM-based extraction (Gemini Flash 2.0 / Claude Sonet / Open AI) |
 | Tesseract OCR fallback | Payment gateway integration |
 | Rule-based + semantic validation | Mobile app |
 | Auto-correction (max 2 retries) | Multi-language support |
